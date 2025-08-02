@@ -1,16 +1,10 @@
-## Angela Wairimu Nyutu – Personal Portfolio Website
+## Personal Portfolio
 
-This is my personal portfolio website, created as part of a solo HTML and CSS project challenge. It highlights my background, skills, projects, and professional interests, and offers a way for potential collaborators and employers to reach out.
+This is my portfolio, created as part of a solo HTML and CSS project challenge. It highlights my background, skills, projects, and professional interests, and offers a way for potential collaborators and employers to reach out.
 
-## Live Site
+## Project Overview
 
-🔗 [View Portfolio Live](https://your-github-username.github.io/portfolio/)  
-*(Replace this with your actual GitHub Pages link after deployment.)*
-
-
-## 🧾 Project Overview
-
-This website serves as a digital showcase of my journey as a data professional in humanitarian and public health domains. It includes:
+It serves as a digital showcase of my journey as a data professional in humanitarian and public health domains. It includes:
 
 - **About Me** – Brief professional summary
 - **Skills** – Technical and soft skills
@@ -22,7 +16,7 @@ This website serves as a digital showcase of my journey as a data professional i
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 | Technology | Role |
 | HTML5 | Website structure |
@@ -34,6 +28,3 @@ This website serves as a digital showcase of my journey as a data professional i
 - Background: White
 
 ---
-
-## 📁 Folder Structure
-
